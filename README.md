@@ -12,5 +12,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 #####In your browser navigate to:#####
 ```
-(http://localhost:8080/)
+http://localhost:8080/
 ```
