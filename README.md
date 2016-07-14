@@ -11,4 +11,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> npm start
 ```
 #####From the Command Line:#####
-http://localhost:8080/
+```
+[http://localhost:8080/]
+```
