@@ -10,7 +10,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> npm install
 	> npm start
 ```
-#####From the Command Line:#####
+#####In your browser navigate to:#####
 ```
-[http://localhost:8080/]
+(http://localhost:8080/)
 ```
